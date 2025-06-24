@@ -32,5 +32,3 @@ Ein WordPress-Plugin, das es ermöglicht, Käufer automatisch zu einer Telegram-
 - Invite-Links sind zeitlich begrenzt
 - Optional: Einmalige Nutzung des Links aktivieren
 
-## Verzeichnisstruktur
-
